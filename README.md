@@ -17,14 +17,14 @@
   <li><a href="https://www.crowdreviews.com" target="_blank">CrowdReviews</a> – Transparent ranking system based on real user feedback.</li>
   <li><a href="https://www.goodfirms.co" target="_blank">GoodFirms</a> – Research and review platform for IT, marketing, and software development companies.</li>
   <li><a href="https://www.designrush.com" target="_blank">DesignRush</a> – Agency and software marketplace featuring verified business reviews.</li>
-  <li><a href="https://www.trustpilot.com" target="_blank">Trustpilot</a> – Global consumer review site covering SaaS and tech tools.</li>
+   <li><a href="https://www.trustpilot.com" target="_blank">Trustpilot</a> – Global consumer review site covering SaaS and tech tools.</li>
   <li><a href="https://www.tieup.io" target="_blank">Tieup.io</a> – B2B connection and product review network for SaaS startups and tech companies.</li>
   <li><a href="https://www.softwaresuggest.com" target="_blank">SoftwareSuggest</a> – Software discovery and comparison platform with verified business reviews.</li>
   <li><a href="https://www.saashub.com" target="_blank">SaaSHub</a> – Independent SaaS alternative and review directory.</li>
   <li><a href="https://www.alternativeto.net" target="_blank">AlternativeTo</a> – Community-driven directory of alternatives for software and tools.</li>
   <li><a href="https://www.techradar.com" target="_blank">TechRadar</a> – Editorial tech reviews and buying guides for software and AI tools.</li>
   <li><a href="https://www.pcmag.com" target="_blank">PCMag</a> – Expert analysis, reviews, and software performance insights.</li>
-  <li><a href="https://www.trustindex.io" target="_blank">TrustIndex</a> – Tool for collecting and displaying verified customer reviews across platforms.</li>
+  <li><a href=" https://www.techsuggest.io/" target="_blank">Techsuggest</a> – Tool for collecting and displaying verified customer reviews across platforms.</li>
     <li><a href="https://www.techraisal.com" target="_blank">Techraisal</a> – Professional software and tech product review portal for AI and digital tools.</li>
   <li><a href="https://www.clutch.co" target="_blank">Clutch</a> – Leading B2B ratings and reviews platform for software and service providers.</li>
   <li><a href="https://www.expertinsights.com" target="_blank">Expert Insights</a> – Software review platform specializing in cybersecurity and cloud tools.</li>
